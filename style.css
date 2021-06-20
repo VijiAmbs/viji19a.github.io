@@ -48,7 +48,7 @@ button a{
 }
 
 a{
-	color: #49BDBA;
+	color: #000000;
 }
 
 
@@ -173,7 +173,7 @@ a{
 .workGrid button{
 	background-color: black;
 	color: #F0FFFF
-	padding: 10px;
+	padding: 20px;
 	border-radius: 10px;
 }
 
@@ -199,7 +199,7 @@ a{
 
 .flex{
 	padding: 15px;
-	padding-left: 05%;
+	padding-left: 15%;
 }
 
 .flexContainer img{
